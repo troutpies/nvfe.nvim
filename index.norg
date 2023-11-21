@@ -1,0 +1,59 @@
+@document.meta
+title: nv-iron
+description: pronounced "new iron." a collection of utilities for use with `neovim` and `neorg`. 
+authors: jason
+categories: [
+    ironsworn
+    rpg
+    neorg
+    neovim
+]
+created: 2023-10-24T11:36:03-0700
+updated: 2023-11-21T15:04:36-0700
+version: 1.1.1
+@end
+
+_*rustbound: neovim/neorg*_
+
+*rustbound* refers to both my /apoc-survival/ hack of [/*Ironsworn*/], as well
+to the various commandline/neovim utilities I decide to code. 
+
+* Functionality Wishlist
+
+  - store *oracles* in a standard, text-based format, such as JSON.
+  - write a common code framework, which accesses these oracles in the same
+    format
+  - extend *neorg* functionality, in order to maintain character sheets, make
+    entries in game logs, and make random rolls
+
+* oracles and random ass shit
+
+  - the end goal would to be to use neorg functionality in order to record a
+    campaign of *Ironsworn* or one of it's derivative games. 
+  - part of this should include a type of session log, which could leverage the
+    journal functionality of neorg
+  - when a player has to make a random determination, such as consulting an
+    oracle, or making a challenge roll, it should be possible to call this
+    action from inside neovim, and automatically print the results to a text
+    file, based on the type of action
+
+** oracles
+
+   one of the core elements of _Ironsworn_ is the use of /oracles/, a collection
+   of random tables that the player(s) can consult when they are unsure of what
+   to do. 
+
+   oracles should be contained in a consistent format (leaning towards JSON). 
+
+   users should be able to create their own custom oracles, and save them in the
+   same format
+
+   various utilities should be able to access the oracles, in order to code for
+   different platforms/use cases
+
+   a configuration file should specify a library of available oracles (save
+   these tables in a separate location from any individual utility)
+
+   utilities should strive to handle text-completion for these oracles
+
+

@@ -1,0 +1,38 @@
+@document.meta
+title: json
+description: 
+authors: jason
+categories: [
+    neorg
+    oracles
+]
+created: 2023-11-25T22:14:13-0700
+updated: 2023-11-25T22:26:38-0700
+version: 1.1.1
+@end
+
+What do oracles (and maybe other types of files) look like in JSON?
+
+* oracles
+
+  *oracle* /data/ is contained by a single *JSON* file. 
+  *oracle* functionality is largely handled by a `lua` "class".
+
+  It is possible that an *oracle* may have "sub-oracles" - handling this is a
+  pretty immediate goal. At the very least, "sub-oracles" can be included using
+  the `"oracle": {}` element in the *JSON* file. This will indicate that the
+  subsequent information is an "oracle" type. This might instigate recursive
+  constructors for oracle types.
+
+___
+* workspace state
+
+    there should be a list of currently loaded "oracles"
+  and a list of available "oracles" (loading as needed)
+  and an option to explicitly specify a path to a *JSON* file, to add to the
+  "loaded" list
+  - what oracles should be autoloaded?
+  - can "oracles" be selected via `telescope` in order to return "consult"
+    results?
+
+

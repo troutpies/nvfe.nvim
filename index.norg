@@ -1,31 +1,104 @@
 @document.meta
-title: nv-iron
-description: pronounced "new iron." a collection of utilities for use with `neovim` and `neorg`. 
+title: nvfe: /NeoVim Fabular Extensions/
+description: pronounced "new iron." a collection of utilities for use with `neovim` and `neorg`, in order to play and document solo- or coop-rpgs.
 authors: jason
 categories: [
     ironsworn
     rpg
     neorg
     neovim
+    nvfe
 ]
 created: 2023-10-24T11:36:03-0700
-updated: 2023-11-21T15:04:36-0700
+updated: 2023-11-25T22:27:13-0700
 version: 1.1.1
 @end
 
-_*rustbound: neovim/neorg*_
+___
+* The Gist
 
-*rustbound* refers to both my /apoc-survival/ hack of [/*Ironsworn*/], as well
-to the various commandline/neovim utilities I decide to code. 
+  This started out as just wanting to manage some tools for a specific game -
+  /Ironsworn/. The idea is to use a utility like `neorg` to maintain a
+  "campaign" of solo- or coop- rpg games. 
 
+  This would include handling:
+  - "mechanical" documents, such as character sheets, faction sheets, etc. these might handle functions like:
+  -- increasing or decreasing stats
+  -- adjusting stats on a "track"
+  -- making "rolls" based on data found in the document
+  -- filling "progress" tracks
+
+
+___
+* module structure/organization
+
+  The module itself is responsible for UI functionality. This includes things
+  like:
+  - jumping between files
+  - rolling dice
+  - rolling on tables
+  - automating entries into session logs
+
+  There are plenty of utilities that already exist, for various functions, that
+  don't need to be recreated. Such as -
+  - maintaining a collection of files/documents
+  - automating some kind of "journal system"
+  - formatting/highlighting for certain filetypes (specifically thinking about
+    norg)
+
+So, instead of recreating these functions, this plugin should provide support
+  for interacting with these other existing tools. 
+
+  This might look like
+  - extending `neorg`'s /journal/ functionality
+  - taking advantage of highlight groups and concealer tools
+  - provide support for tools like `telescope`
+  -- the results log - provide support for pasting these results into documents
+  -- navigate the "campaign"/workspace
+
+___
 * Functionality Wishlist
 
   - store *oracles* in a standard, text-based format, such as JSON.
   - write a common code framework, which accesses these oracles in the same
     format
-  - extend *neorg* functionality, in order to maintain character sheets, make
-    entries in game logs, and make random rolls
 
+
+** extend *neorg* functionality, 
+
+   in order to maintain character sheets, make entries in game logs, and make random rolls
+
+  -- add highlights for value tracks
+
+  -- automate various variable functions
+  --- rolling a challenge with a stat
+  --- consulting an oracle
+  --- increase or decrease a value on a track
+  --- increase or decrease a numeric value
+  --- incrementally fill progress tracks
+
+   - insert function results into the buffer
+
+*** extend the journal module in order to record sessions
+
+    - include function results in nicely formatted quote blocks
+    - review past results thru various tools
+    -- telescope
+    -- messages
+    -- quick fix? location?
+
+___
+* file organization/management
+
+  - where to store oracles
+  - interacting with `neorg`
+  - managing campaigns
+  -- this should be managed thru `neorg` - i.e. don't create a new workspace
+     structure, just use whatever is provided by `neorg` or maybe eventually
+     vimwiki
+  - maintaining various "collections" (in the /BuJo/ sense of the term)
+
+___
 * oracles and random ass shit
 
   - the end goal would to be to use neorg functionality in order to record a

@@ -3,6 +3,7 @@
     - insert results of challenges directly into buffer
     - [ ] implement oracles (in a separate file)
     - [ ] pull values directly from character sheet
+    - highlight selected values in neorg character sheet
 --]]
 
 M = {}

@@ -1,0 +1,95 @@
+@document.meta
+title: character
+description: 
+authors: jason
+categories: 
+created: 2023-11-06T14:29:26-0700
+updated: 2023-11-25T14:22:52-0700
+version: 1.1.1
+@end
+
+Character Name
+
+___
+* Stats
+
+  - *Edge:* #
+  - *Heart:* #
+  - Iron: #
+  - *Shadow:* #
+  - *Wits:* #
+
+___
+* Momentum
+  +10  +9  +8  +7  +6  +5  +4  +3  +2  +1  _*+0*_  -1  -2  -3  -4  -5  -6 
+
+___
+* Status
+
+    ** Health
+       _*+5*_  +4  +3  +2  +1  +0 
+
+    ** Spirit 
+       _*+5*_  +4  +3  +2  +1  +0 
+
+    ** Supply
+       _*+5*_  +4  +3  +2  +1  +0 
+
+___
+* Bonds
+  ( ) (-) (=) (≡) (X)
+
+  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )
+
+___
+* Vows
+
+** Vow 1
+   Troublesome-Epic (how many ticks?)
+   ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )
+
+** Vow 2
+   Troublesome-Epic (how many ticks?)
+   ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )
+
+** Vow 3
+   Troublesome-Epic (how many ticks?)
+   ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )
+
+** Vow 4
+   Troublesome-Epic (how many ticks?)
+   ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )
+
+** Vow 5
+   Troublesome-Epic (how many ticks?)
+   ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )  ( )
+
+___
+* Debilities
+
+** Conditions
+
+   - ( ) wounded
+   - ( ) shaken
+   - ( ) unprepared
+   - ( ) encumbered
+
+** Banes
+
+   - ( ) maimed
+   - ( ) corrupted
+
+** Burdens
+
+  ___
+* Appendix
+
+** Tracking Boxes
+   |   || - || = || ≡ || x |
+
+** "Code" blocks
+
+*** Tracks
+
+    : :: :: :: :: :: :: :: :: :: :
+

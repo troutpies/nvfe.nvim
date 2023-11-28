@@ -1,1 +1,2 @@
-print("It's pronounced \"new iron\"")
+local commands = require("nvfe.commands")
+local oracle = require("nvfe.oracle")

@@ -1,5 +1,5 @@
 @document.meta
-title: nvfe: /NeoVim Fabular Extensions/
+title: nvfe: /NeoVim Fantasy Extensions/
 description: pronounced "new iron." a collection of utilities for use with `neovim` and `neorg`, in order to play and document solo- or coop-rpgs.
 authors: jason
 categories: [
@@ -10,7 +10,7 @@ categories: [
     nvfe
 ]
 created: 2023-10-24T11:36:03-0700
-updated: 2023-11-25T22:27:13-0700
+updated: 2023-11-29T14:18:38-0700
 version: 1.1.1
 @end
 
@@ -62,6 +62,21 @@ ___
   - store *oracles* in a standard, text-based format, such as JSON.
   - write a common code framework, which accesses these oracles in the same
     format
+
+** Function/Tool Categories
+
+   - Random Tables
+   - Dice rolling
+   - Decks of Cards
+   - Maintaining Character sheets
+   - Maintaining Session logs
+
+*** Game Specific
+
+    - user defined functions for specific games
+    -- /glum/\//jovial/ dice in /Swords Without Master/
+    -- /PBtA/ style challenges
+    -- Collections of tables for games, such as /Mörk Borg/, /Ironsworn/, etc.
 
 
 ** extend *neorg* functionality, 

@@ -1,0 +1,24 @@
+@document.meta
+title: gamespace
+description: 
+authors: jason
+categories: 
+created: 2023-11-30T08:52:21-0700
+updated: 2023-11-30T08:57:43-0700
+version: 1.1.1
+@end
+
+* How are gamespaces setup?
+
+  - $gamespace/
+  -- $dogma/
+  -- journal
+  -- lore // I'm not even quite sure what this means - it's the place where you
+     put character sheets, and world notes, and NPCs, and stuff like that
+
+** ok, now, how do I make this work with `neorg`?
+
+   rather than having to set the config in different places, 
+   just do it in one place, and make the right calls
+
+

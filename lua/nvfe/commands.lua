@@ -1,6 +1,6 @@
 M = {}
 
-vim.api.nvim_create_user_command('Nvfe',
+vim.api.nvim_create_user_command('NvFE',
     function(opts)
         local oracle = require("nvfe.oracle")
 

@@ -6,10 +6,11 @@
 --]]
 --
 
+local log = require("nvfe.log")
+
 -- --------------------------------------------------
 -- Oracle "class" stuff
 --   we add this to the module later (I think I need to do that?)
-local Result
 local Oracle = {
     name = "", desc = "", path = "",
     m = 1, n = 100,
@@ -24,6 +25,8 @@ function Oracle:new (o)
     return o
 end
 
+
+
 -- return a table of results
 function Oracle:roll_table()
     -- return table will all the results
@@ -35,7 +38,8 @@ function Oracle:roll_table()
 
     for _,v in ipairs(self.results) do
         if roll >= v.m and roll <= v.n then
-            r = Result:new {
+            r = log.Result:new {
+                title = self.name,
                 src = self.name,
                 roll = roll,
                 m = v.m,
@@ -54,25 +58,6 @@ function Oracle:roll_table()
     return results
 end
 
--- =================================================================
-Result = {
-    src = "", value = "",
-}
-
-function Result:new (o)
-    o = o or {}
-    setmetatable(o, self)
-    self.__index = self
-    return o
-end
-
--- TODO: handle different types of ranges
-function Result:get_string()
-    local s = string.format("%s\n", self.src)
-    s = s .. string.format("Roll: %s - [%s-%s] %s", self.roll, self.m, self.n, self.value)
-
-    return s
-end
 
 -- --------------------------------------------------
 -- Modules stuff
@@ -115,7 +100,6 @@ end
 -- Run an Oracle, stored in index
 M.consult = function(o)
     local oracle = M.oracles[o]
-    -- local results = M.roll_table(oracle)
     local results = oracle:roll_table()
 
     for _,r in ipairs(results) do

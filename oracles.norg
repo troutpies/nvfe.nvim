@@ -1,0 +1,14 @@
+@document.meta
+title: oracles
+description: 
+authors: jason
+categories: 
+created: 2023-12-02T20:55:28-0700
+updated: 2023-12-02T20:56:18-0700
+version: 1.1.1
+@end
+
+* Oracles - Getting results from Random Tables
+
+  - From a coding standpoint, there is an advantage to calling these "Oracles"
+    rather than "tables," which could be confusing in the context of `lua`.

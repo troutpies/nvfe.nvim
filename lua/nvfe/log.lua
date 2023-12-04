@@ -4,11 +4,14 @@
 --
 local config = require("nvfe.config")
 
-local log = {}
+local log = {
+    results = {},
+}
 
 -- =================================================================
 local Result = {
-    src = "", value = "",
+    title="result",
+    body = "",
 }
 
 function Result:new (o)
@@ -20,10 +23,12 @@ end
 
 -- TODO: handle different types of ranges
 function Result:get_string()
-    local s = string.format("%s\n", self.src)
-    s = s .. string.format("Roll: %s - [%s-%s] %s", self.roll, self.m, self.n, self.value)
+    local lines = {
+        self.title,
+        self.body,
+    }
 
-    return s
+    return table.concat(lines, '\n')
 end
 
 log.Result = Result
@@ -41,6 +46,13 @@ log.write_log = function (s)
     local of = assert(io.open(config.values.logdir .. config.values.logfile, "a+"))
     of:write(s)
     of:close()
+end
+
+log.push_result = function(r, opts)
+    opts = opts or {}
+
+    print( r.get_string() )
+    -- table.insert(log.results, r)
 end
 
 return log

@@ -34,18 +34,29 @@ end
 log.Result = Result
 
 -- =================================================================
+-- the log functions
+--
 
+-- output the string to vim notify
+log.notify = function (s)
+    print(s)
+end
+
+
+-- write the string to the logfile
+log.write_log = function (s)
+    -- clean up the filepath
+    local of = assert(io.open(config.values.logdir .. config.values.logfile, "a+"))
+    of:write(s)
+    of:close()
+end
+
+--[[
 log.get_log_str = function(opts)
     local ls = string.format("-- %s -----\n", opts.title)
     ls = ls .. opts.value .. "\n"
     ls = ls .. "----------\n"
     return ls
-end
-
-log.write_log = function (s)
-    local of = assert(io.open(config.values.logdir .. config.values.logfile, "a+"))
-    of:write(s)
-    of:close()
 end
 
 log.push_result = function(r, opts)
@@ -54,5 +65,7 @@ log.push_result = function(r, opts)
     print( r.get_string() )
     -- table.insert(log.results, r)
 end
+--
+--]]
 
 return log

@@ -2,11 +2,21 @@
 title: gamespace
 description: 
 authors: jason
-categories: 
+categories: [
+    nvfe
+    ironsworn
+    neovim
+    neorg
+]
 created: 2023-11-30T08:52:21-0700
-updated: 2023-11-30T08:57:43-0700
+updated: 2023-12-04T13:17:44-0700
 version: 1.1.1
 @end
+
+* What is a gamespace?
+
+  A /gamespace/ is analagous to a /workspace/ in [`neorg`]{:$/notes/neorg:} - 
+  in fact, gamespaces can/should also be stored in `neorg` workspaces.
 
 * How are gamespaces setup?
 

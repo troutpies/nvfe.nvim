@@ -3,35 +3,11 @@
 --]]
 --
 local config = require("nvfe.config")
+local result = require("nvfe.config")
 
 local log = {
     results = {},
 }
-
--- =================================================================
-local Result = {
-    title="result",
-    body = "",
-}
-
-function Result:new (o)
-    o = o or {}
-    setmetatable(o, self)
-    self.__index = self
-    return o
-end
-
--- TODO: handle different types of ranges
-function Result:get_string()
-    local lines = {
-        self.title,
-        self.body,
-    }
-
-    return table.concat(lines, '\n')
-end
-
-log.Result = Result
 
 -- =================================================================
 -- the log functions
@@ -49,6 +25,12 @@ log.write_log = function (s)
     local of = assert(io.open(config.values.logdir .. config.values.logfile, "a+"))
     of:write(s)
     of:close()
+end
+
+-- add the result to the log
+log.push_result = function (r)
+    print( r:get_string() )
+    table.insert(log.results, r)
 end
 
 --[[

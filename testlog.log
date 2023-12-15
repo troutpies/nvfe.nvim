@@ -1,0 +1,3318 @@
+
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+sourcing "/usr/local/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent.vim
+chdir(/home/jason/nvfe.nvim)
+chdir(/etc/xdg/nvim/)
+chdir(/home/jason/nvfe.nvim)
+sourcing "/etc/xdg/nvim/sysinit.vim"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/share/nvim/)
+chdir(/home/jason/nvfe.nvim)
+line 2: sourcing "/usr/share/nvim/archlinux.vim"
+finished sourcing /usr/share/nvim/archlinux.vim
+continuing in /etc/xdg/nvim/sysinit.vim
+finished sourcing /etc/xdg/nvim/sysinit.vim
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/)
+chdir(/home/jason/nvfe.nvim)
+sourcing "/home/jason/.config/nvim/init.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/filetype.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/share/vim/vimfiles/ftdetect/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/share/vim/vimfiles/ftdetect/lf.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/lf.vim
+continuing in nvim_exec2() called at /usr/local/share/nvim/runtime/filetype.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/share/vim/vimfiles/ftdetect/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/share/vim/vimfiles/ftdetect/meson.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/meson.vim
+continuing in nvim_exec2() called at /usr/local/share/nvim/runtime/filetype.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /usr/local/share/nvim/runtime/filetype.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/syntax/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/syntax/)
+chdir(/home/jason/nvfe.nvim)
+line 20: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+Executing FileType Autocommands for "*"
+autocommand if !exists('b:ts_highlight') | 0verbose exe "set syntax=" . expand("<amatch>") | endif
+
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/syntax/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/syntax/)
+chdir(/home/jason/nvfe.nvim)
+line 16: sourcing "/usr/local/share/nvim/runtime/syntax/nosyntax.vim"
+Executing BufEnter Autocommands for "*"
+autocommand syn clear
+
+autocommand if exists("b:current_syntax") | unlet b:current_syntax | endif
+
+finished sourcing /usr/local/share/nvim/runtime/syntax/nosyntax.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/syntax/)
+chdir(/home/jason/nvfe.nvim)
+line 20: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+Executing FileType Autocommands for "*"
+autocommand if !exists('b:ts_highlight') | 0verbose exe "set syntax=" . expand("<amatch>") | endif
+
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+Reading spell file "/usr/local/share/nvim/runtime/spell/en.utf-8.spl"
+not found in runtime path: "spell/en.utf-8.add.spl"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/handler/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/filetype.lua"
+finished sourcing /usr/local/share/nvim/runtime/filetype.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-markdown/ftdetect/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-markdown/ftdetect/markdown.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-markdown/ftdetect/markdown.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/playground/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/playground/plugin/nvim-treesitter-playground.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-treesitter/plugin/nvim-treesitter.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-treesitter/plugin/nvim-treesitter.lua
+continuing in nvim_exec2() called at /home/jason/.local/share/nvim/lazy/playground/plugin/nvim-treesitter-playground.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/playground/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/playground/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/playground/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/playground/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/playground/plugin/nvim-treesitter-playground.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/ftdetect/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/neorg/ftdetect/norg.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/neorg/ftdetect/norg.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-cmp/plugin/cmp.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-cmp/plugin/cmp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-web-devicons/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-web-devicons/plugin/nvim-web-devicons.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-web-devicons/plugin/nvim-web-devicons.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+Error detected while processing /home/jason/.config/nvim/init.lua..nvim_exec2() called at /home/jason/.config/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-web-devicons/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-web-devicons/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/lua/luasnip/loaders/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/lua/luasnip/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/lua/luasnip/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/lua/luasnip/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/telescope.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/telescope.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/limelight.vim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/limelight.vim/plugin/limelight.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/limelight.vim/plugin/limelight.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/nvfe.nvim/plugin/nvfe.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim/lua/nvfe/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/nvfe.nvim/plugin/nvfe.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/vim-fugitive/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/vim-fugitive/plugin/fugitive.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/vim-fugitive/plugin/fugitive.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/vim-fugitive/ftdetect/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/vim-fugitive/ftdetect/fugitive.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/vim-fugitive/ftdetect/fugitive.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/zen-mode.nvim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/zen-mode.nvim/plugin/zen-mode.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/zen-mode.nvim/plugin/zen-mode.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/dap.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-dap/plugin/dap.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/plenary.nvim/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/plenary.nvim/plugin/plenary.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/plenary.nvim/plugin/plenary.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/lspconfig.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/lua/vim/lsp/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/lua/vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/lspconfig.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/editorconfig.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /usr/local/share/nvim/runtime/plugin/editorconfig.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/gzip.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/man.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /usr/local/share/nvim/runtime/plugin/man.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/site/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/plenary.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-cmdline/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lualine.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-path/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/zen-mode.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/gruvbox.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp_luasnip/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/vim-fugitive/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/limelight.vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/telescope.nvim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/harpoon/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/LuaSnip/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-web-devicons/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-dap-ui/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/playground/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-markdown/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-buffer/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/pack/dist/opt/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 3: sourcing "/usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /usr/local/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchit.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchparen.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/netrwPlugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/nvim.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /usr/local/share/nvim/runtime/plugin/nvim.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/osc52.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/osc52.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/rplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/rplugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/shada.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/spellfile.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tarPlugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/tohtml.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tohtml.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tutor.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/zipPlugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-cmdline/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-cmdline/after/plugin/cmp_cmdline.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-cmdline/after/plugin/cmp_cmdline.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-path/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-path/after/plugin/cmp_path.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-path/after/plugin/cmp_path.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/cmp_luasnip.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/cmp_luasnip.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/lua/cmp_nvim_lsp/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/cmp-buffer/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-buffer/after/plugin/cmp_buffer.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-buffer/after/plugin/cmp_buffer.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/autopairs.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/autopairs.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/colors.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+Executing ColorSchemePre Autocommands for "*"
+autocommand <Lua 24: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/loader.lua:31>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/colors/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/colors/gruvbox.vim"
+finished sourcing /home/jason/.config/nvim/colors/gruvbox.vim
+continuing in /home/jason/.config/nvim/after/plugin/colors.lua
+Executing ColorScheme Autocommands for "*"
+autocommand <Lua 64: ~/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/autocmd.lua:22>
+
+Executing ColorScheme Autocommands for "*"
+autocommand <Lua 81: ~/.local/share/nvim/lazy/nvim-web-devicons/lua/nvim-web-devicons.lua:270>
+
+Executing ColorScheme Autocommands for "*"
+autocommand <Lua 82: ~/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree.lua:128>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/colors.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/fugitive.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/fugitive.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/harpoon.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/harpoon/lua/harpoon/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/harpoon/lua/harpoon/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/harpoon/lua/harpoon/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/harpoon.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/limelight.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/limelight.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/lsp.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/lsp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/lualine.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+--- Autocommands ---
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+	Last set from ~/nvfe.nvim/vim/_editor.lua
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+--- Autocommands ---
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lualine.nvim/lua/lualine/utils/)
+chdir(/home/jason/nvfe.nvim)
+--- Autocommands ---
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+--- Autocommands ---
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/lualine.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/neorg.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+                            NeoVim Fantasy Extensions
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/neorgcmd/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+
+NVIM v0.10.0-dev-1614+ge89071522
+Build type: RelWithDebInfo
+LuaJIT 2.1.1700008891
+Compilation: /sbin/cc -O2 -g -Og -g -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes -std=gnu99 -Wshadow -Wconversion -Wvla -Wdouble-promotion -Wmissing-noreturn -Wmissing-format-attribute -Wmissing-prototypes -fsigned-char -fno-common -Wno-unused-result -Wimplicit-fallthrough -fdiagnostics-color=always -fstack-protector-strong -DUNIT_TESTING -DINCLUDE_GENERATED_DECLARATIONS -D_GNU_SOURCE -DNVIM_TS_HAS_SET_MAX_START_DEPTH -I/home/jason/neovim/.deps/usr/include/luajit-2.1 -I/usr/include -I/home/jason/neovim/.deps/usr/include -I/home/jason/neovim/build/src/nvim/auto -I/home/jason/neovim/build/include -I/home/jason/neovim/build/cmake.config -I/home/jason/neovim/src
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/usr/local/share/nvim"
+
+Run :checkhealth for more info
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/integrations/treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/concealer/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/clipboard/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/esupports/metagen/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/neorg.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/noice.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/noice.nvim/lua/noice/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/noice.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvfe.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/nvfe.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-cmp.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-cmp/lua/cmp/utils/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-cmp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-markdown.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-markdown.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-notify.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-notify.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-tree.lua"
+Error detected while processing /home/jason/.config/nvim/init.lua..nvim_exec2() called at /home/jason/.config/nvim/init.lua:0../home/jason/.config/nvim/after/plugin/nvim-tree.lua..nvim_exec2() called at /home/jason/.config/nvim/after/plugin/nvim-tree.lua:0:
+E216: No such group or event: FileExplorer *
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-tree.lua/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-tree.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/telescope.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/telescope.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/treesitter.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/treesitter.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/zen-mode.lua"
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(vim/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/after/plugin/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/after/plugin/zen-mode.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+Executing User Autocommands for "LazyDone"
+autocommand <Lua 23: ~/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/util.lua:159>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/lazy.nvim/lua/lazy/core/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.config/nvim/lua/troutpies/)
+chdir(/home/jason/nvfe.nvim)
+finished sourcing /home/jason/.config/nvim/init.lua
+Reading ShaDa file "/home/jason/.local/state/nvim/shada/main.shada" info marks oldfiles
+Reading ShaDa file "/home/jason/.local/state/nvim/shada/main.shada" marks
+Executing BufReadPost Autocommands for "*"
+autocommand <Lua 14: /usr/local/share/nvim/runtime/filetype.lua:10>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/)
+chdir(/home/jason/nvfe.nvim)
+Executing FileType Autocommands for "*"
+autocommand call s:LoadFTPlugin()
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/ftplugin/)
+chdir(/home/jason/nvfe.nvim)
+line 20: sourcing "/usr/local/share/nvim/runtime/ftplugin/lua.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin/lua.vim
+continuing in <SNR>2_LoadFTPlugin
+Executing FileType Autocommands for "*"
+autocommand call s:LoadIndent()
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/indent/)
+chdir(/home/jason/nvfe.nvim)
+line 15: sourcing "/usr/local/share/nvim/runtime/indent/lua.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent/lua.vim
+continuing in <SNR>3_LoadIndent
+Executing FileType Autocommands for "*"
+autocommand if !exists('b:ts_highlight') | 0verbose exe "set syntax=" . expand("<amatch>") | endif
+
+Executing FileType Autocommands for "*"
+autocommand <Lua 148: ~/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua:86>
+
+autocommand <Lua 150: ~/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua:92>
+
+autocommand <Lua 152: ~/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua:98>
+
+Executing User Autocommands for "LuasnipSnippetsAdded"
+autocommand <Lua 265: ~/.local/share/nvim/lazy/cmp_luasnip/after/plugin/cmp_luasnip.lua:15>
+
+Executing FileType Autocommands for "*"
+autocommand <Lua 283: ~/.local/share/nvim/lazy/nvim-autopairs/lua/nvim-autopairs.lua:74>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-autopairs/lua/)
+chdir(/home/jason/nvfe.nvim)
+Executing FileType Autocommands for "lua"
+autocommand <Lua 299: ~/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/configs.lua:103>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/nvfe.nvim)
+chdir(/home/jason/.local/share/nvim/lazy/nvim-lsp/lua/lspconfig/)
+chdir(/home/jason/nvfe.nvim)
+Executing FileType Autocommands for "*"
+autocommand call v:lua.require'lualine'.refresh({'kind': 'window', 'place': ['statusline'], 'trigger': 'autocmd'})
+
+Executing FileType Autocommands for "*"
+autocommand call v:lua.require'lualine'.refresh({'kind': 'tabpage', 'place': ['winbar'], 'trigger': 'autocmd'})
+
+Executing FileType Autocommands for "*"
+autocommand <Lua 314: ~/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/module.lua:431>
+
+@neorg.modifiers.link xxx links to NonText
+	Last set from Lua
+@neorg.modifiers.escape xxx links to @type
+	Last set from Lua
+@neorg.anchors.declaration xxx links to @text.reference
+	Last set from Lua
+@neorg.anchors.declaration.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.anchors.definition.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.footnotes.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.footnotes.suffix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.footnotes.title xxx links to @text.strong
+	Last set from Lua
+@neorg.footnotes.content xxx links to @text.emphasis
+	Last set from Lua
+@neorg.definitions.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.definitions.suffix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.definitions.title xxx links to @text.strong
+	Last set from Lua
+@neorg.definitions.content xxx links to @text.emphasis
+	Last set from Lua
+@neorg.headings.5.prefix xxx links to @label
+	Last set from Lua
+@neorg.headings.5.title xxx links to @label
+	Last set from Lua
+@neorg.headings.3.prefix xxx links to @constant
+	Last set from Lua
+@neorg.headings.3.title xxx links to @constant
+	Last set from Lua
+@neorg.headings.2.prefix xxx links to @label
+	Last set from Lua
+@neorg.headings.2.title xxx links to @label
+	Last set from Lua
+@neorg.headings.1.prefix xxx links to @attribute
+	Last set from Lua
+@neorg.headings.1.title xxx links to @attribute
+	Last set from Lua
+@neorg.headings.4.prefix xxx links to @string
+	Last set from Lua
+@neorg.headings.4.title xxx links to @string
+	Last set from Lua
+@neorg.headings.6.prefix xxx links to @constructor
+	Last set from Lua
+@neorg.headings.6.title xxx links to @constructor
+	Last set from Lua
+@neorg.markup.strikethrough xxx cterm=strikethrough gui=strikethrough
+	Last set from ~/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/module.lua line 501
+@neorg.markup.strikethrough.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.superscript xxx links to @number
+	Last set from Lua
+@neorg.markup.superscript.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.subscript xxx links to @label
+	Last set from Lua
+@neorg.markup.subscript.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.spoiler xxx links to @text.danger
+	Last set from Lua
+@neorg.markup.spoiler.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.inline_math xxx links to @text.math
+	Last set from Lua
+@neorg.markup.inline_math.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.variable xxx links to @function.macro
+	Last set from Lua
+@neorg.markup.variable.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.free_form_delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.verbatim.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.italic xxx links to @text.emphasis
+	Last set from Lua
+@neorg.markup.italic.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.bold xxx links to @text.strong
+	Last set from Lua
+@neorg.markup.bold.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.underline xxx cterm=underline gui=underline
+	Last set from ~/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/module.lua line 501
+@neorg.markup.underline.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.inline_comment.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.error   xxx links to @error
+	Last set from Lua
+@neorg.links.location.external_file.prefix xxx links to @label
+	Last set from Lua
+@neorg.links.location.external_file xxx links to @label
+	Last set from Lua
+@neorg.links.location.generic.prefix xxx links to @type
+	Last set from Lua
+@neorg.links.location.generic xxx links to @type
+	Last set from Lua
+@neorg.links.location.url xxx links to @text.uri
+	Last set from Lua
+@neorg.links.location.heading.5.prefix xxx links to @neorg.headings.5.prefix
+	Last set from Lua
+@neorg.links.location.heading.5 xxx links to @neorg.headings.5.title
+	Last set from Lua
+@neorg.links.location.heading.3.prefix xxx links to @neorg.headings.3.prefix
+	Last set from Lua
+@neorg.links.location.heading.3 xxx links to @neorg.headings.3.title
+	Last set from Lua
+@neorg.links.location.heading.2.prefix xxx links to @neorg.headings.2.prefix
+	Last set from Lua
+@neorg.links.location.heading.2 xxx links to @neorg.headings.2.title
+	Last set from Lua
+@neorg.links.location.heading.1.prefix xxx links to @neorg.headings.1.prefix
+	Last set from Lua
+@neorg.links.location.heading.1 xxx links to @neorg.headings.1.title
+	Last set from Lua
+@neorg.links.location.heading.4.prefix xxx links to @neorg.headings.4.prefix
+	Last set from Lua
+@neorg.links.location.heading.4 xxx links to @neorg.headings.4.title
+	Last set from Lua
+@neorg.links.location.heading.6.prefix xxx links to @neorg.headings.6.prefix
+	Last set from Lua
+@neorg.links.location.heading.6 xxx links to @neorg.headings.6.title
+	Last set from Lua
+@neorg.links.location.footnote.prefix xxx links to @neorg.footnotes.prefix
+	Last set from Lua
+@neorg.links.location.footnote xxx links to @neorg.footnotes.title
+	Last set from Lua
+@neorg.links.location.marker.prefix xxx links to @neorg.markers.prefix
+	Last set from Lua
+@neorg.links.location.marker xxx links to @neorg.markers.title
+	Last set from Lua
+@neorg.links.location.definition.prefix xxx links to @neorg.definitions.prefix
+	Last set from Lua
+@neorg.links.location.definition xxx links to @neorg.definitions.title
+	Last set from Lua
+@neorg.links.location.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.links.file xxx links to @comment
+	Last set from Lua
+@neorg.links.file.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.links.description xxx links to @text.uri
+	Last set from Lua
+@neorg.links.description.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.selection_window.key xxx links to @namespace
+	Last set from Lua
+@neorg.selection_window.arrow xxx links to @none
+	Last set from Lua
+@neorg.selection_window.nestedkeyname xxx links to @string
+	Last set from Lua
+@neorg.selection_window.keyname xxx links to @constant
+	Last set from Lua
+@neorg.selection_window.heading xxx links to @annotation
+	Last set from Lua
+@neorg.delimiters.horizontal_line xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.delimiters.strong xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.delimiters.weak xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.lists.unordered.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.lists.ordered.prefix xxx links to @repeat
+	Last set from Lua
+@neorg.quotes.5.prefix xxx links to Green
+	Last set from Lua
+@neorg.quotes.5.content xxx links to Green
+	Last set from Lua
+@neorg.quotes.3.prefix xxx links to Yellow
+	Last set from Lua
+@neorg.quotes.3.content xxx links to Yellow
+	Last set from Lua
+@neorg.quotes.2.prefix xxx links to Blue
+	Last set from Lua
+@neorg.quotes.2.content xxx links to Blue
+	Last set from Lua
+@neorg.quotes.1.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.quotes.1.content xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.quotes.4.prefix xxx links to Red
+	Last set from Lua
+@neorg.quotes.4.content xxx links to Red
+	Last set from Lua
+@neorg.quotes.6.prefix xxx links to Brown
+	Last set from Lua
+@neorg.quotes.6.content xxx links to Brown
+	Last set from Lua
+@neorg.tags.ranged_verbatim.begin xxx links to @keyword
+	Last set from Lua
+@neorg.tags.ranged_verbatim.parameters xxx links to @type
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.array.bracket xxx links to @punctuation.bracket
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.array.value xxx links to @none
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.key xxx links to @field
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.created xxx links to @float
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.value xxx links to @string
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.authors xxx links to @annotation
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.number xxx links to @number
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.trailing xxx links to @repeat
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.description xxx links to @label
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.object.bracket xxx links to @punctuation.bracket
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.version xxx links to @float
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.categories xxx links to @keyword
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.title xxx links to @text.title
+	Last set from Lua
+@neorg.tags.ranged_verbatim.document_meta.updated xxx links to @float
+	Last set from Lua
+@neorg.tags.ranged_verbatim.name.word xxx links to @keyword
+	Last set from Lua
+@neorg.tags.ranged_verbatim.name xxx links to @none
+	Last set from Lua
+@neorg.tags.ranged_verbatim.name.delimiter xxx links to @none
+	Last set from Lua
+@neorg.tags.ranged_verbatim.end xxx links to @keyword
+	Last set from Lua
+@neorg.tags.comment.content xxx links to @comment
+	Last set from Lua
+@neorg.tags.carryover.begin xxx links to @label
+	Last set from Lua
+@neorg.tags.carryover.parameters xxx links to @string
+	Last set from Lua
+@neorg.tags.carryover.name.word xxx links to @label
+	Last set from Lua
+@neorg.tags.carryover.name xxx links to @none
+	Last set from Lua
+@neorg.tags.carryover.name.delimiter xxx links to @none
+	Last set from Lua
+@neorg.todo_items.cancelled xxx links to NonText
+	Last set from Lua
+@neorg.todo_items.recurring xxx links to @repeat
+	Last set from Lua
+@neorg.todo_items.uncertain xxx links to @boolean
+	Last set from Lua
+@neorg.todo_items.done xxx links to @string
+	Last set from Lua
+@neorg.todo_items.pending xxx links to @namespace
+	Last set from Lua
+@neorg.todo_items.undone xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.todo_items.urgent xxx links to @text.danger
+	Last set from Lua
+@neorg.todo_items.on_hold xxx links to @text.note
+	Last set from Lua
+@neorg.tags.ranged_verbatim.code_block xxx cleared
+	Last set from Lua
+@neorg.markup.verbatim xxx cleared
+	Last set from Lua
+@neorg.markup.inline_comment xxx cleared
+	Last set from Lua
+Executing FileType Autocommands for "*"
+autocommand :lua _neorg_module_autocommand_triggered("core.autocommands.events.filetype", false)
+
+Executing FileType Autocommands for "*"
+autocommand <Lua 342: ~/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/install.lua:558>
+
+Executing FileType Autocommands for "*"
+autocommand <Lua 343: ~/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/configs.lua:132>
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/lua/vim/treesitter/)
+chdir(/home/jason/nvfe.nvim)
+Executing Syntax Autocommands for "*"
+autocommand call s:SynSet()
+
+chdir(/home/jason/nvfe.nvim)
+chdir(/usr/local/share/nvim/runtime/lua/vim/treesitter/)
+chdir(/home/jason/nvfe.nvim)
+Executing BufReadPost Autocommands for "*"
+autocommand if !did_filetype() && expand('<amatch>') !~ g:ft_ignore_pat | runtime! scripts.vim | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand if exists('b:git_dir') && b:git_dir =~# '^$\|' . s:bad_git_dir |   unlet b:git_dir | endif
+
+Executing BufReadPost Autocommands for "*"
+autocommand <Lua 235: /usr/local/share/nvim/runtime/plugin/editorconfig.lua:4>
+
+Executing BufReadPost Autocommands for "*"
+autocommand <Lua 83: ~/.local/share/nvim/lazy/nvim-tree.lua/lua/nvim-tree.lua:213>
+
+Executing BufWinEnter Autocommands for "*"
+autocommand <Lua 147: ~/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua:86>
+
+autocommand <Lua 149: ~/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua:92>
+
+autocommand <Lua 151: ~/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua:98>
+
+Executing BufWinEnter Autocommands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing BufWinEnter Autocommands for "*"
+autocommand <Lua 281: ~/.local/share/nvim/lazy/nvim-autopairs/lua/nvim-autopairs.lua:60>
+
+Executing BufEnter Autocommands for "*"
+autocommand <Lua 280: ~/.local/share/nvim/lazy/nvim-autopairs/lua/nvim-autopairs.lua:60>
+
+Executing BufEnter Autocommands for "*"
+autocommand lua require'lualine.components.branch.git_branch'.find_git_dir()
+
+autocommand lua require'lualine.components.diff.git_diff'.update_diff_args()
+
+Executing BufEnter Autocommands for "*"
+autocommand call v:lua.require'lualine'.refresh({'kind': 'window', 'place': ['statusline'], 'trigger': 'autocmd'})
+
+Executing BufEnter Autocommands for "*"
+autocommand call v:lua.require'lualine'.refresh({'kind': 'tabpage', 'place': ['winbar'], '
+sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+sourcing "/usr/local/share/nvim/runtime/indent.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent.vim
+sourcing "/etc/xdg/nvim/sysinit.vim"
+line 2: sourcing "/usr/share/nvim/archlinux.vim"
+finished sourcing /usr/share/nvim/archlinux.vim
+continuing in /etc/xdg/nvim/sysinit.vim
+finished sourcing /etc/xdg/nvim/sysinit.vim
+sourcing "/home/jason/.config/nvim/init.lua"
+line 0: sourcing "/usr/local/share/nvim/runtime/filetype.lua"
+line 0: sourcing "/usr/share/vim/vimfiles/ftdetect/lf.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/lf.vim
+continuing in nvim_exec2() called at /usr/local/share/nvim/runtime/filetype.lua:0
+line 0: sourcing "/usr/share/vim/vimfiles/ftdetect/meson.vim"
+finished sourcing /usr/share/vim/vimfiles/ftdetect/meson.vim
+continuing in nvim_exec2() called at /usr/local/share/nvim/runtime/filetype.lua:0
+finished sourcing /usr/local/share/nvim/runtime/filetype.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/ftplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+line 20: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/syntax/syntax.vim"
+line 16: sourcing "/usr/local/share/nvim/runtime/syntax/nosyntax.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/nosyntax.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+line 20: sourcing "/usr/local/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /usr/local/share/nvim/runtime/syntax/synload.vim
+continuing in /usr/local/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /usr/local/share/nvim/runtime/syntax/syntax.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+Reading spell file "/usr/local/share/nvim/runtime/spell/en.utf-8.spl"
+not found in runtime path: "spell/en.utf-8.add.spl"
+line 0: sourcing "/usr/local/share/nvim/runtime/filetype.lua"
+finished sourcing /usr/local/share/nvim/runtime/filetype.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/plenary.nvim/plugin/plenary.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/plenary.nvim/plugin/plenary.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-markdown/ftdetect/markdown.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-markdown/ftdetect/markdown.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/LuaSnip/plugin/luasnip.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/nvfe.nvim/plugin/nvfe.lua"
+finished sourcing /home/jason/nvfe.nvim/plugin/nvfe.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-dap/plugin/dap.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-dap/plugin/dap.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/vim-fugitive/plugin/fugitive.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/vim-fugitive/plugin/fugitive.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/vim-fugitive/ftdetect/fugitive.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/vim-fugitive/ftdetect/fugitive.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-web-devicons/plugin/nvim-web-devicons.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-web-devicons/plugin/nvim-web-devicons.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+Error detected while processing /home/jason/.config/nvim/init.lua..nvim_exec2() called at /home/jason/.config/nvim/init.lua:0:
+E216: No such group or event: FileExplorer *
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/telescope.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/telescope.nvim/plugin/telescope.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-cmp/plugin/cmp.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-cmp/plugin/cmp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/lspconfig.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-lsp/plugin/lspconfig.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/zen-mode.nvim/plugin/zen-mode.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/zen-mode.nvim/plugin/zen-mode.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/limelight.vim/plugin/limelight.vim"
+finished sourcing /home/jason/.local/share/nvim/lazy/limelight.vim/plugin/limelight.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/playground/plugin/nvim-treesitter-playground.lua"
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/nvim-treesitter/plugin/nvim-treesitter.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/nvim-treesitter/plugin/nvim-treesitter.lua
+continuing in nvim_exec2() called at /home/jason/.local/share/nvim/lazy/playground/plugin/nvim-treesitter-playground.lua:0
+finished sourcing /home/jason/.local/share/nvim/lazy/playground/plugin/nvim-treesitter-playground.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/neorg/ftdetect/norg.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/neorg/ftdetect/norg.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/editorconfig.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/editorconfig.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/gzip.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/man.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/man.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+line 3: sourcing "/usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /usr/local/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /usr/local/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchit.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/matchparen.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/netrwPlugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/nvim.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/nvim.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/osc52.lua"
+finished sourcing /usr/local/share/nvim/runtime/plugin/osc52.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/rplugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/rplugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/shada.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/spellfile.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tarPlugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/tohtml.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tohtml.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/tutor.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/usr/local/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /usr/local/share/nvim/runtime/plugin/zipPlugin.vim
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-cmdline/after/plugin/cmp_cmdline.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-cmdline/after/plugin/cmp_cmdline.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-path/after/plugin/cmp_path.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-path/after/plugin/cmp_path.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/cmp_luasnip.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp_luasnip/after/plugin/cmp_luasnip.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.local/share/nvim/lazy/cmp-buffer/after/plugin/cmp_buffer.lua"
+finished sourcing /home/jason/.local/share/nvim/lazy/cmp-buffer/after/plugin/cmp_buffer.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/autopairs.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/autopairs.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/colors.lua"
+line 0: sourcing "/home/jason/.config/nvim/colors/gruvbox.vim"
+finished sourcing /home/jason/.config/nvim/colors/gruvbox.vim
+continuing in /home/jason/.config/nvim/after/plugin/colors.lua
+finished sourcing /home/jason/.config/nvim/after/plugin/colors.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/fugitive.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/fugitive.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/harpoon.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/harpoon.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/limelight.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/limelight.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/lsp.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/lsp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/lualine.lua"
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+	Last set from ~/nvfe.nvim/vim/_editor.lua
+--- Autocommands ---
+--- Autocommands ---
+--- Autocommands ---
+finished sourcing /home/jason/.config/nvim/after/plugin/lualine.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/neorg.lua"
+
+NVIM v0.10.0-dev-1614+ge89071522
+Build type: RelWithDebInfo
+LuaJIT 2.1.1700008891
+Compilation: /sbin/cc -O2 -g -Og -g -Wall -Wextra -pedantic -Wno-unused-parameter -Wstrict-prototypes -std=gnu99 -Wshadow -Wconversion -Wvla -Wdouble-promotion -Wmissing-noreturn -Wmissing-format-attribute -Wmissing-prototypes -fsigned-char -fno-common -Wno-unused-result -Wimplicit-fallthrough -fdiagnostics-color=always -fstack-protector-strong -DUNIT_TESTING -DINCLUDE_GENERATED_DECLARATIONS -D_GNU_SOURCE -DNVIM_TS_HAS_SET_MAX_START_DEPTH -I/home/jason/neovim/.deps/usr/include/luajit-2.1 -I/usr/include -I/home/jason/neovim/.deps/usr/include -I/home/jason/neovim/build/src/nvim/auto -I/home/jason/neovim/build/include -I/home/jason/neovim/build/cmake.config -I/home/jason/neovim/src
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/usr/local/share/nvim"
+
+Run :checkhealth for more info
+                                                                  NeoVim Fantasy Extensions
+finished sourcing /home/jason/.config/nvim/after/plugin/neorg.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/noice.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/noice.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvfe.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/nvfe.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-cmp.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-cmp.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-markdown.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-markdown.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-notify.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-notify.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/nvim-tree.lua"
+Error detected while processing /home/jason/.config/nvim/init.lua..nvim_exec2() called at /home/jason/.config/nvim/init.lua:0../home/jason/.config/nvim/after/plugin/nvim-tree.lua..nvim_exec2() called at /home/jason/.config/nvim/after/plugin/nvim-tree.lua:0:
+E216: No such group or event: FileExplorer *
+finished sourcing /home/jason/.config/nvim/after/plugin/nvim-tree.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/telescope.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/telescope.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/treesitter.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/treesitter.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+line 0: sourcing "/home/jason/.config/nvim/after/plugin/zen-mode.lua"
+finished sourcing /home/jason/.config/nvim/after/plugin/zen-mode.lua
+continuing in nvim_exec2() called at /home/jason/.config/nvim/init.lua:0
+finished sourcing /home/jason/.config/nvim/init.lua
+Reading ShaDa file "/home/jason/.local/state/nvim/shada/main.shada" info marks oldfiles
+Reading ShaDa file "/home/jason/.local/state/nvim/shada/main.shada" marks
+line 20: sourcing "/usr/local/share/nvim/runtime/ftplugin/lua.vim"
+finished sourcing /usr/local/share/nvim/runtime/ftplugin/lua.vim
+continuing in <SNR>2_LoadFTPlugin
+line 15: sourcing "/usr/local/share/nvim/runtime/indent/lua.vim"
+finished sourcing /usr/local/share/nvim/runtime/indent/lua.vim
+continuing in <SNR>3_LoadIndent
+@neorg.selection_window.arrow xxx links to @none
+	Last set from Lua
+@neorg.selection_window.nestedkeyname xxx links to @string
+	Last set from Lua
+@neorg.selection_window.keyname xxx links to @constant
+	Last set from Lua
+@neorg.selection_window.key xxx links to @namespace
+	Last set from Lua
+@neorg.selection_window.heading xxx links to @annotation
+	Last set from Lua
+@neorg.error   xxx links to @error
+	Last set from Lua
+@neorg.lists.unordered.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.lists.ordered.prefix xxx links to @repeat
+	Last set from Lua
+@neorg.todo_items.recurring xxx links to @repeat
+	Last set from Lua
+@neorg.todo_items.done xxx links to @string
+	Last set from Lua
+@neorg.todo_items.uncertain xxx links to @boolean
+	Last set from Lua
+@neorg.todo_items.urgent xxx links to @text.danger
+	Last set from Lua
+@neorg.todo_items.cancelled xxx links to NonText
+	Last set from Lua
+@neorg.todo_items.undone xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.todo_items.pending xxx links to @namespace
+	Last set from Lua
+@neorg.todo_items.on_hold xxx links to @text.note
+	Last set from Lua
+@neorg.modifiers.escape xxx links to @type
+	Last set from Lua
+@neorg.modifiers.link xxx links to NonText
+	Last set from Lua
+@neorg.quotes.4.content xxx links to Red
+	Last set from Lua
+@neorg.quotes.4.prefix xxx links to Red
+	Last set from Lua
+@neorg.quotes.6.content xxx links to Brown
+	Last set from Lua
+@neorg.quotes.6.prefix xxx links to Brown
+	Last set from Lua
+@neorg.quotes.5.content xxx links to Green
+	Last set from Lua
+@neorg.quotes.5.prefix xxx links to Green
+	Last set from Lua
+@neorg.quotes.3.content xxx links to Yellow
+	Last set from Lua
+@neorg.quotes.3.prefix xxx links to Yellow
+	Last set from Lua
+@neorg.quotes.2.content xxx links to Blue
+	Last set from Lua
+@neorg.quotes.2.prefix xxx links to Blue
+	Last set from Lua
+@neorg.quotes.1.content xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.quotes.1.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.delimiters.strong xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.delimiters.horizontal_line xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.delimiters.weak xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.links.file xxx links to @comment
+	Last set from Lua
+@neorg.links.file.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.links.description xxx links to @text.uri
+	Last set from Lua
+@neorg.links.description.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.links.location.generic xxx links to @type
+	Last set from Lua
+@neorg.links.location.generic.prefix xxx links to @type
+	Last set from Lua
+@neorg.links.location.marker xxx links to @neorg.markers.title
+	Last set from Lua
+@neorg.links.location.marker.prefix xxx links to @neorg.markers.prefix
+	Last set from Lua
+@neorg.links.location.definition xxx links to @neorg.definitions.title
+	Last set from Lua
+@neorg.links.location.definition.prefix xxx links to @neorg.definitions.prefix
+	Last set from Lua
+@neorg.links.location.url xxx links to @text.uri
+	Last set from Lua
+@neorg.links.location.footnote xxx links to @neorg.footnotes.title
+	Last set from Lua
+@neorg.links.location.footnote.prefix xxx links to @neorg.footnotes.prefix
+	Last set from Lua
+@neorg.links.location.heading.4 xxx links to @neorg.headings.4.title
+	Last set from Lua
+@neorg.links.location.heading.4.prefix xxx links to @neorg.headings.4.prefix
+	Last set from Lua
+@neorg.links.location.heading.6 xxx links to @neorg.headings.6.title
+	Last set from Lua
+@neorg.links.location.heading.6.prefix xxx links to @neorg.headings.6.prefix
+	Last set from Lua
+@neorg.links.location.heading.5 xxx links to @neorg.headings.5.title
+	Last set from Lua
+@neorg.links.location.heading.5.prefix xxx links to @neorg.headings.5.prefix
+	Last set from Lua
+@neorg.links.location.heading.3 xxx links to @neorg.headings.3.title
+	Last set from Lua
+@neorg.links.location.heading.3.prefix xxx links to @neorg.headings.3.prefix
+	Last set from Lua
+@neorg.links.location.heading.2 xxx links to @neorg.headings.2.title
+	Last set from Lua
+@neorg.links.location.heading.2.prefix xxx links to @neorg.headings.2.prefix
+	Last set from Lua
+@neorg.links.location.heading.1 xxx links to @neorg.headings.1.title
+	Last set from Lua
+@neorg.links.location.heading.1.prefix xxx links to @neorg.headings.1.prefix
+	Last set from Lua
+@neorg.links.location.external_file xxx links to @label
+	Last set from Lua
+@neorg.links.location.external_file.prefix xxx links to @label
+	Last set from Lua
+@neorg.links.location.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.footnotes.content xxx links to @text.emphasis
+	Last set from Lua
+@neorg.footnotes.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.footnotes.suffix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.footnotes.title xxx links to @text.strong
+	Last set from Lua
+@neorg.definitions.content xxx links to @text.emphasis
+	Last set from Lua
+@neorg.definitions.prefix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.definitions.suffix xxx links to @punctuation.delimiter
+	Last set from Lua
+@neorg.definitions.title xxx links to @text.strong
+	Last set from Lua
+@neorg.headings.4.title xxx links to @string
+	Last set from Lua
+@neorg.headings.4.prefix xxx links to @string
+	Last set from Lua
+@neorg.headings.6.title xxx links to @constructor
+	Last set from Lua
+@neorg.headings.6.prefix xxx links to @constructor
+	Last set from Lua
+@neorg.headings.5.title xxx links to @label
+	Last set from Lua
+@neorg.headings.5.prefix xxx links to @label
+	Last set from Lua
+@neorg.headings.3.title xxx links to @constant
+	Last set from Lua
+@neorg.headings.3.prefix xxx links to @constant
+	Last set from Lua
+@neorg.headings.2.title xxx links to @label
+	Last set from Lua
+@neorg.headings.2.prefix xxx links to @label
+	Last set from Lua
+@neorg.headings.1.title xxx links to @attribute
+	Last set from Lua
+@neorg.headings.1.prefix xxx links to @attribute
+	Last set from Lua
+@neorg.anchors.declaration xxx links to @text.reference
+	Last set from Lua
+@neorg.anchors.declaration.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.anchors.definition.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.free_form_delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.subscript xxx links to @label
+	Last set from Lua
+@neorg.markup.subscript.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.strikethrough xxx cterm=strikethrough gui=strikethrough
+	Last set from ~/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/module.lua line 501
+@neorg.markup.strikethrough.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.underline xxx cterm=underline gui=underline
+	Last set from ~/.local/share/nvim/lazy/neorg/lua/neorg/modules/core/highlights/module.lua line 501
+@neorg.markup.underline.delimiter xxx links to NonText
+	Last set from Lua
+@neorg.markup.spoiler xxx links to @text.danger
+	Last set from Lua
+@neorg.markup.spoiler.delimiter xxx lin

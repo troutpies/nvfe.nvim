@@ -6,12 +6,12 @@
     - highlight selected values in neorg character sheet
 --]]
 
-NvFE = {}
+local config = require("nvfe.config")
 
-function NvFE.setup(opts)
-    opts = opts or {}
+local nvfe = {}
 
-    require("nvfe.config").set_opts(opts)
+function nvfe.setup(cfg)
+    config.user_config = vim.tbl_deep_extend("force", config.user_config, cfg or {})
 end
 
-return NvFE
+return nvfe

@@ -9,7 +9,7 @@ categories: [
     neorg
 ]
 created: 2023-11-30T08:52:21-0700
-updated: 2023-12-04T13:17:44-0700
+updated: 2023-12-22T17:59:25-0700
 version: 1.1.1
 @end
 
@@ -18,17 +18,41 @@ version: 1.1.1
   A /gamespace/ is analagous to a /workspace/ in [`neorg`]{:$/notes/neorg:} - 
   in fact, gamespaces can/should also be stored in `neorg` workspaces.
 
-* How are gamespaces setup?
+Rather than writing a bunch of different plugin extensions, to accomodate
+  different rules sets, /*gamepsaces*/ can be distributed as self-contained
+  `git` repos. The repo would contain:
+  - `.nvfe/` : configuration files, and system specific code
+  - `$rules/` : a folder containing assets for that system
+  -- subdirectories should contain *content*, in some kind of text based
+     data-format, such as json, or norg (determined by the functionality)
+  -- for example, `$rules/oracle/` contains *json* files that could be processed
+     using the *`oracle`* functionality in *`nvfe`*
+  -- $rules/templates/ contains templates for character sheets, session logs,
+     world-building, etc.
+  --- ( ) implement functionality for using templates, and manipulating filedata
 
-  - $gamespace/
-  -- $dogma/
-  -- journal
-  -- lore // I'm not even quite sure what this means - it's the place where you
-     put character sheets, and world notes, and NPCs, and stuff like that
+  - journal : the intended use case is that the user is also using something
+    like neorg or vimwiki, and saving their data in some format like norg,
+    markdown, or the vimwiki syntax. the journal can be used as session logs.
+  -- just let whatever framework you're using go ahead and manage the files
+  -- nvfe can handle things like rolling on tables, and writing the results to
+    these session logs
+
 
 ** ok, now, how do I make this work with `neorg`?
 
    rather than having to set the config in different places, 
    just do it in one place, and make the right calls
 
+* loading the gamespace
+___
 
+  as noted above, the gamespace directory should contain a .nvfe directory
+  - this directory should contain a lua directory and a config directory
+
+  when nvfe loads the games space, it should do the following:
+  - add the gamespace path to the rtp
+  - run any appropriate lua code to initialize
+  - change directory to the gamepspace root
+  - open the "index" of the root, according to the config found in .nvfe
+  -- probably README.md or index.norg

@@ -1,10 +1,12 @@
-local result = require("nvfe.result")
+local result = require("nvfe.log.result")
 local log = require("nvfe.log")
+local oracle = require("nvfe.oracle")
 
-local rone = result:new{title="title 1", body="lorem ipsum, and all that jazz"}
-local rtwo = result:new{title="a second title", body="you know this is mostly a corrupted version of random pieces of Cicero, right?"}
+oracle.push_oracle("/home/jason/newiron/ironsworn/oracles/01-action.json")
+oracle.push_oracle("/home/jason/newiron/ironsworn/oracles/02-theme.json")
+oracle.push_oracle("/home/jason/newiron/ironsworn/oracles/03-region.json")
 
-log.push_result(rone)
-log.push_result(rtwo)
-
-print(log.results)
+for k,v in pairs(oracle.oraclelist) do
+    print(string.format("consulting oracle: %s", k))
+    v:put_oracle()
+end

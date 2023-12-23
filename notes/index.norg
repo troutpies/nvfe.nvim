@@ -10,7 +10,7 @@ categories: [
     nvfe
 ]
 created: 2023-10-24T11:36:03-0700
-updated: 2023-12-04T13:43:12-0700
+updated: 2023-12-21T17:15:58-0700
 version: 1.1.1
 @end
 
@@ -28,9 +28,26 @@ ___
   -- making "rolls" based on data found in the document
   -- filling "progress" tracks
 
+* TODO
+  ___
 
-___
+** Oracle
+   - ( ) nested oracles
+
+** Bones
+   - ( ) basic functions
+   - ( ) Result implementation
+
+** log
+   - ( ) write/read log file
+
+** config
+
+** commands
+   - ( ) look into how Neorg handles commands and workspaces - I like it
+
 * terminology
+___
 
   $ Result
    /Result/ can be passed to log from a variety of sources

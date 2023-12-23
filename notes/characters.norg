@@ -1,0 +1,30 @@
+@document.meta
+title: characters
+description: 
+authors: jason
+categories: 
+created: 2023-12-21T19:49:54-0700
+updated: 2023-12-21T20:01:39-0700
+version: 1.1.1
+@end
+
+The goal is to 
+- view the character information in a text file
+- manipulate the content of that text file using commands/functions
+- parse the information in that text file to add modifiers to random rolls
+- or, parse in the process of manipulation
+
+ok, so as I see it, there are kinda two options
+~ have a data file which is connected to the text file, and edits to one, update
+  the other
+~ parse the file contextually as needed
+
+- could take a sort of "lazy load" approach
+- doing some kind of manipulation would look for a particular value. 
+- if it finds it, it captures it in a table.
+- after that, it can manipulate the data directly, and update the text file
+  accordingly. 
+- so you only load the data that you're actually using
+
+- this maybe involves using treesitter to define entities within the textfile,
+  and read/write those entities to perform functions

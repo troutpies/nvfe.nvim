@@ -3,11 +3,17 @@
 --]]
 --
 local config = require("nvfe.config")
-local result = require("nvfe.config")
 
+-- container for the "log" module
 local log = {
-    results = {},
+    -- submodules
+    result = require("nvfe.log.result"),
+
+    -- ---------------
+    results = {},       -- list of results
 }
+
+-- make the submodule accesible
 
 -- =================================================================
 -- the log functions
@@ -29,8 +35,17 @@ end
 
 -- add the result to the log
 log.push_result = function (r)
-    print( r:get_string() )
     table.insert(log.results, r)
+end
+
+-- put the last result into the buffer
+log.put_last = function()
+    local lines = {}
+    for line in string.gmatch( log.results[#log.results]:get_formatted(), "[^\n]+") do
+        table.insert(lines, "> " .. line)
+    end
+    local cursor = vim.api.nvim_win_get_cursor(0)
+    vim.api.nvim_buf_set_lines( 0, cursor[1], cursor[1], false, lines )
 end
 
 --[[

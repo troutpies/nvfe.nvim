@@ -6,12 +6,13 @@
     - highlight selected values in neorg character sheet
 --]]
 
-local config = require("nvfe.config")
+local M = {
+    config = require("nvfe.config"),
+    log = require("nvfe.log")
+}
 
-local nvfe = {}
-
-function nvfe.setup(cfg)
-    config.user_config = vim.tbl_deep_extend("force", config.user_config, cfg or {})
+function M.setup(cfg)
+    M.config.user_config = vim.tbl_deep_extend("force", M.config.user_config, cfg or {})
 end
 
-return nvfe
+return M

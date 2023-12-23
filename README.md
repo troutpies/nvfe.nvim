@@ -1,4 +1,7 @@
-# nv-iron
+# NVFE: NeoVim Fantasy Extensions
+
+> it's pronounced, "new iron"
+
 
 
 
